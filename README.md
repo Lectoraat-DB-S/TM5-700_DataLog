@@ -8,4 +8,4 @@ few things to note:
 - that you have installed all the necessary python libraries
 - the code has been written in python version 3.7.3
 - the code has been written to gather the Z coordinate of the tcp and the Z force every 0.05 seconds, but can easily be changed to read different data
-- the library pyModbusTCP had version 0.2.0
+- the library pyModbusTCP had version 0.2.0.
