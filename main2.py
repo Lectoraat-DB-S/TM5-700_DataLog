@@ -70,7 +70,7 @@ try:
         sleep(data_interval)
         
 
-#press ctrl+c om user interface te stopppen
+#press ctrl+c to stop the user interface
 except:
     print("client closed")
     client.close()
