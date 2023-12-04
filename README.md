@@ -10,3 +10,4 @@ few things to note:
 - the code has been written to gather the Z coordinate of the tcp and the Z force every 0.05 seconds, but can easily be changed to read different data.
 - the library pyModbusTCP had version 0.2.0.
 dome
+tester
